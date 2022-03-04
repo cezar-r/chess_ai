@@ -1,6 +1,3 @@
-
-
-
 import pygame 
 from chess.constants import *
 from chess.game import Game
